@@ -12,41 +12,41 @@ Welcome to my folders of prototyping fun.
 
 | Project | Description |
 |--------|-------------|
-| 🏠 **[timotheusgmeiner.com](https://github.com/timobuilds/timotheusgmeiner.com)** | Personal site |
-| 📄 **[bwi_site](https://github.com/timobuilds/bwi_site)** | BWI site |
-| 📄 **[pensif-pre-site](https://github.com/timobuilds/pensif-pre-site)** | Pensif pre-launch site |
-| 📄 **[pensif](https://github.com/timobuilds/pensif)** | AI SaaS structures with Next.js |
-| ✨ **[automagical_site](https://github.com/timobuilds/automagical_site)** | Automagical site |
-| 📋 **[portfolio](https://github.com/timobuilds/portfolio)** | A summary of projects |
-| 🔗 **[prismo](https://github.com/timobuilds/prismo)** | — |
+| 🏠 **[timotheusgmeiner.com](https://github.com/timobuilds/timotheusgmeiner.com)** | React + Vite portfolio; content from JSON, publishes llms.txt for AI context |
+| 📄 **[bwi_site](https://github.com/timobuilds/bwi_site)** | BWI company or product site |
+| 📄 **[pensif-pre-site](https://github.com/timobuilds/pensif-pre-site)** | 3D interactive galaxy (Three.js) in a folder viewport for pre-launch |
+| 📄 **[pensif](https://github.com/timobuilds/pensif)** | Next.js AI SaaS app for exploring product structures and flows |
+| ✨ **[automagical_site](https://github.com/timobuilds/automagical_site)** | Automagical product or landing site |
+| 📋 **[portfolio](https://github.com/timobuilds/portfolio)** | Curated summary of projects (HTML) |
+| 🔗 **[prismo](https://github.com/timobuilds/prismo)** | Visual prompt-engineering workbench: infinite canvas → VLM → structured JSON prompts (tldraw + Claude) |
 
 ## Thinking about tools
 
 | Project | Description |
 |--------|-------------|
-| 🎯 **[prototype](https://github.com/timobuilds/prototype)** | Prototype app |
-| ✅ **[fitlist](https://github.com/timobuilds/fitlist)** | Fitlist app |
-| ✨ **[sparks](https://github.com/timobuilds/sparks)** | Sparks (CSS) |
-| 🎭 **[meme-generator](https://github.com/timobuilds/meme-generator)** | Meme generator |
-| 🗺️ **[map-shop](https://github.com/timobuilds/map-shop)** | Create and sell maps |
-| 🏠 **[home-planner](https://github.com/timobuilds/home-planner)** | Home planner |
-| 🎨 **[DesignCanvas](https://github.com/timobuilds/DesignCanvas)** | Design canvas |
-| 🎨 **[pensif-canvas](https://github.com/timobuilds/pensif-canvas)** | Pensif canvas |
-| 📦 **[parts-database](https://github.com/timobuilds/parts-database)** | Parts database |
-| 📁 **[FileSorter](https://github.com/timobuilds/FileSorter)** | File sorter |
-| 🗺️ **[pretty-maps-web](https://github.com/timobuilds/pretty-maps-web)** | Pretty maps (web) |
-| ✍️ **[CopyWrite](https://github.com/timobuilds/CopyWrite)** | Copywriting tool |
-| 🛠️ **[design-tool-simple](https://github.com/timobuilds/design-tool-simple)** | Simple design tool |
-| 📝 **[layercake-composer-notes](https://github.com/timobuilds/layercake-composer-notes)** | Layercake composer notes |
+| 🎯 **[prototype](https://github.com/timobuilds/prototype)** | Turns PDFs or doc URLs + a question into step-by-step workflows (OpenAI) |
+| ✅ **[fitlist](https://github.com/timobuilds/fitlist)** | Fitness or checklist app |
+| ✨ **[sparks](https://github.com/timobuilds/sparks)** | Chrome extension: new-tab page with random quote, portrait, and link (scientists/innovators) |
+| 🎭 **[meme-generator](https://github.com/timobuilds/meme-generator)** | Create memes (upload/samples, drag text), auth, feed, real-time upvotes (Next.js + InstantDB) |
+| 🗺️ **[map-shop](https://github.com/timobuilds/map-shop)** | Create and sell custom maps |
+| 🏠 **[home-planner](https://github.com/timobuilds/home-planner)** | Plan or layout home spaces (Next.js) |
+| 🎨 **[DesignCanvas](https://github.com/timobuilds/DesignCanvas)** | Collaborative canvas: sketch → AI concept images, 3D models, video (tldraw + Gemini/Fal) |
+| 🎨 **[pensif-canvas](https://github.com/timobuilds/pensif-canvas)** | AI collaborative canvas: frames, connections, sharing, Clerk auth (Next.js) |
+| 📦 **[parts-database](https://github.com/timobuilds/parts-database)** | Manage parts inventory: CSV upload, edit, comments, delete (PostgreSQL) |
+| 📁 **[FileSorter](https://github.com/timobuilds/FileSorter)** | Desktop app: organize files with local LLM summarization, tagging, search, rename (privacy-first) |
+| 🗺️ **[pretty-maps-web](https://github.com/timobuilds/pretty-maps-web)** | Generate styled maps from an address; styles, scale, download (Next.js + prettymaps) |
+| ✍️ **[CopyWrite](https://github.com/timobuilds/CopyWrite)** | Generate marketing copy from context (PDF/TXT), campaign types, voice refinements (Gemini + ElevenLabs) |
+| 🛠️ **[design-tool-simple](https://github.com/timobuilds/design-tool-simple)** | Sketch → concept image, 3D model, video (Streamlit + Gemini + Fal.ai) |
+| 📝 **[layercake-composer-notes](https://github.com/timobuilds/layercake-composer-notes)** | Local-first outliner: nested nodes, personas, versioning, voice notes, command palette |
 
 ## Playing
 
 | Project | Description |
 |--------|-------------|
-| 🤖 **[mfwd](https://github.com/timobuilds/mfwd)** | Learn how to apply AI |
-| 🤖 **[go-agent](https://github.com/timobuilds/go-agent)** | Go agent |
-| 🧪 **[cursor-agent-test](https://github.com/timobuilds/cursor-agent-test)** | Cursor agent experiments |
-| 🎮 **[llm-playground](https://github.com/timobuilds/llm-playground)** | An exploration into LLMs |
+| 🤖 **[mfwd](https://github.com/timobuilds/mfwd)** | Learning resource and experiments for applying AI in practice |
+| 🤖 **[go-agent](https://github.com/timobuilds/go-agent)** | Agent or CLI built in Go |
+| 🧪 **[cursor-agent-test](https://github.com/timobuilds/cursor-agent-test)** | Experiments with Cursor-based agents and workflows |
+| 🎮 **[llm-playground](https://github.com/timobuilds/llm-playground)** | Sandbox for trying and comparing LLM behaviors and prompts |
 
 
 ## Experiments
