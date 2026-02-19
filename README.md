@@ -53,22 +53,22 @@ Welcome to my folders of prototyping fun.
 
 | Project | Description |
 |--------|-------------|
-| 📊 **[gradio_apps](https://github.com/timobuilds/gradio_apps)** | Gradio apps with HuggingFace endpoints |
-| 🐳 **[docker-fastapi-ml](https://github.com/timobuilds/docker-fastapi-ml)** | — |
-| 🔍 **[llm_semantic_search](https://github.com/timobuilds/llm_semantic_search)** | Cohere embeddings for semantic search |
-| 📄 **[gpt4-pdf-chatbot-langchain](https://github.com/timobuilds/gpt4-pdf-chatbot-langchain)** | Fork – GPT4 & LangChain PDF chatbot |
-| 📄 **[multi-pdf-chat](https://github.com/timobuilds/multi-pdf-chat)** | — |
-| 📄 **[doc-chat](https://github.com/timobuilds/doc-chat)** | OpenAI, LangChain, Llama Index |
-| 🧪 **[explore-llms](https://github.com/timobuilds/explore-llms)** | — |
-| 🧪 **[langchain-experiments](https://github.com/timobuilds/langchain-experiments)** | Fork – LangChain experiments |
-| 🎭 **[autogpt-play](https://github.com/timobuilds/autogpt-play)** | Langchain agent development |
-| 💬 **[gpt3-chatbot-test](https://github.com/timobuilds/gpt3-chatbot-test)** | — |
-| 📧 **[chatgpt-gmail](https://github.com/timobuilds/chatgpt-gmail)** | — |
-| ⚡ **[nextjs-gpt3](https://github.com/timobuilds/nextjs-gpt3)** | — |
-| 📷 **[img2story](https://github.com/timobuilds/img2story)** | HF/GPT3.5 + LangChain + Streamlit |
-| 📝 **[search-sum](https://github.com/timobuilds/search-sum)** | — |
-| 📖 **[pic-reader](https://github.com/timobuilds/pic-reader)** | — |
-| 📚 **[askchangingmatter](https://github.com/timobuilds/askchangingmatter)** | Fork – Talk to Changing Matter |
+| 📊 **[gradio_apps](https://github.com/timobuilds/gradio_apps)** | Gradio UIs wired to HuggingFace models and endpoints |
+| 🐳 **[docker-fastapi-ml](https://github.com/timobuilds/docker-fastapi-ml)** | FastAPI + ML stack in Docker (conda env for AI/chat PDF–style workflows) |
+| 🔍 **[llm_semantic_search](https://github.com/timobuilds/llm_semantic_search)** | Semantic search over your data using Cohere embeddings and LLM augmentation |
+| 📄 **[gpt4-pdf-chatbot-langchain](https://github.com/timobuilds/gpt4-pdf-chatbot-langchain)** | Fork: chat with large PDFs using GPT-4 and LangChain retrieval |
+| 📄 **[multi-pdf-chat](https://github.com/timobuilds/multi-pdf-chat)** | Chat with multiple PDFs: load, chunk, embed, answer from doc content (OpenAI or Instructor) |
+| 📄 **[doc-chat](https://github.com/timobuilds/doc-chat)** | Document Q&A using OpenAI, LangChain, and Llama Index |
+| 🧪 **[explore-llms](https://github.com/timobuilds/explore-llms)** | Streamlit demos: URL summarizer, PDF search, multi-PDF chat, image→story, research agent, script generator |
+| 🧪 **[langchain-experiments](https://github.com/timobuilds/langchain-experiments)** | Fork: LangChain patterns and small apps |
+| 🎭 **[autogpt-play](https://github.com/timobuilds/autogpt-play)** | Explorations in LangChain-based autonomous or agentic flows |
+| 💬 **[gpt3-chatbot-test](https://github.com/timobuilds/gpt3-chatbot-test)** | Simple chatbot using GPT-3 (Vercel-style example) |
+| 📧 **[chatgpt-gmail](https://github.com/timobuilds/chatgpt-gmail)** | Bridge or automation between ChatGPT and Gmail |
+| ⚡ **[nextjs-gpt3](https://github.com/timobuilds/nextjs-gpt3)** | Next.js app with GPT-3 integration (API routes + frontend) |
+| 📷 **[img2story](https://github.com/timobuilds/img2story)** | Upload image → get a generated story (HuggingFace + GPT-3.5 + LangChain + Streamlit) |
+| 📝 **[search-sum](https://github.com/timobuilds/search-sum)** | Search and summarization over content (OpenAI-backed; env-driven) |
+| 📖 **[pic-reader](https://github.com/timobuilds/pic-reader)** | Upload an image and get an AI-generated description (e.g. vision API) |
+| 📚 **[askchangingmatter](https://github.com/timobuilds/askchangingmatter)** | Fork: “Talk to” a book or long doc via embeddings and Q&A |
 
 ## Creative & generative
 
