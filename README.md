@@ -19,12 +19,15 @@ Welcome to my folders of prototyping fun.
 | ✨ **[automagical_site](https://github.com/timobuilds/automagical_site)** | Automagical product or landing site |
 | 📋 **[portfolio](https://github.com/timobuilds/portfolio)** | Curated summary of projects (HTML) |
 | 🔗 **[prismo](https://github.com/timobuilds/prismo)** | Visual prompt-engineering workbench: infinite canvas → VLM → structured JSON prompts (tldraw + Claude) |
+| 📚 **[docs](https://github.com/timobuilds/docs)** | Documentation site (Mintlify starter kit) |
 
 ## Thinking about tools
 
 | Project | Description |
 |--------|-------------|
 | 🎯 **[prototype](https://github.com/timobuilds/prototype)** | Turns PDFs or doc URLs + a question into step-by-step workflows (OpenAI) |
+| 🏥 **[doc-doctor](https://github.com/timobuilds/doc-doctor)** | AI workflow tutor: turn docs (PDFs, URLs, manuals) into step-by-step workflows (Next.js + OpenAI vision) |
+| 🤖 **[autotask](https://github.com/timobuilds/autotask)** | macOS app: record workflows (screen + OS interactions) → AI semantic traces → searchable knowledge base (Tauri + React) |
 | ✅ **[fitlist](https://github.com/timobuilds/fitlist)** | Fitness or checklist app |
 | ✨ **[sparks](https://github.com/timobuilds/sparks)** | Chrome extension: new-tab page with random quote, portrait, and link (scientists/innovators) |
 | 🎭 **[meme-generator](https://github.com/timobuilds/meme-generator)** | Create memes (upload/samples, drag text), auth, feed, real-time upvotes (Next.js + InstantDB) |
@@ -47,6 +50,11 @@ Welcome to my folders of prototyping fun.
 | 🤖 **[go-agent](https://github.com/timobuilds/go-agent)** | Agent or CLI built in Go |
 | 🧪 **[cursor-agent-test](https://github.com/timobuilds/cursor-agent-test)** | Experiments with Cursor-based agents and workflows |
 | 🎮 **[llm-playground](https://github.com/timobuilds/llm-playground)** | Sandbox for trying and comparing LLM behaviors and prompts |
+| 🌊 **[windsurf-project](https://github.com/timobuilds/windsurf-project)** | Windsurf IDE project or experiments |
+| 🤖 **[Auto-GPT](https://github.com/timobuilds/Auto-GPT)** | Fork: experimental autonomous GPT-4 agent |
+| 🤖 **[gpt-engineer](https://github.com/timobuilds/gpt-engineer)** | Fork: AI builds from spec + clarification questions |
+| 🔬 **[open-deep-research](https://github.com/timobuilds/open-deep-research)** | AI agent: deep research from web data (Firecrawl + LLM reasoning) |
+| 🔬 **[OpenDeepResearcher](https://github.com/timobuilds/OpenDeepResearcher)** | AI researcher: iterative search until comprehensive (SERPAPI + Jina + OpenRouter) |
 
 
 ## Experiments
@@ -74,34 +82,34 @@ Welcome to my folders of prototyping fun.
 
 | Project | Description |
 |--------|-------------|
-| 🌐 **[cad2web](https://github.com/timobuilds/cad2web)** | Three.js for web |
-| ✏️ **[fisnep](https://github.com/timobuilds/fisnep)** | Browser-based sketching (p5.js) |
-| 👤 **[facemesh](https://github.com/timobuilds/facemesh)** | Tensorflow.js face mesh |
-| 🎲 **[exploring-generative](https://github.com/timobuilds/exploring-generative)** | Generative 3D explorations |
-| 🖼️ **[photo2sketch](https://github.com/timobuilds/photo2sketch)** | — |
+| 🌐 **[cad2web](https://github.com/timobuilds/cad2web)** | Bring CAD or 3D workflows to the browser with Three.js and Vite |
+| ✏️ **[fisnep](https://github.com/timobuilds/fisnep)** | Browser-based drawing and sketching using p5.js |
+| 👤 **[facemesh](https://github.com/timobuilds/facemesh)** | Real-time face mesh overlay in the browser (Tensorflow.js + React) |
+| 🎲 **[exploring-generative](https://github.com/timobuilds/exploring-generative)** | Jupyter-based generative 3D and visual experiments |
+| 🖼️ **[photo2sketch](https://github.com/timobuilds/photo2sketch)** | Convert photos to sketch-style images (e.g. edge/contour or style transfer) |
 
 ## Engineering & simulation
 
 | Project | Description |
 |--------|-------------|
-| 📐 **[hpme](https://github.com/timobuilds/hpme)** | 2D FEA tool |
-| 📊 **[modelandsim](https://github.com/timobuilds/modelandsim)** | Modelling and simulation (Python) |
-| 🔬 **[Transformer_MPC](https://github.com/timobuilds/Transformer_MPC)** | Fork – Transformer MPC |
-| 📈 **[quantified_self](https://github.com/timobuilds/quantified_self)** | — |
-| 🧮 **[mlfun](https://github.com/timobuilds/mlfun)** | — |
+| 📐 **[hpme](https://github.com/timobuilds/hpme)** | 2D finite-element analysis (FEA) for structural/mechanical problems |
+| 📊 **[modelandsim](https://github.com/timobuilds/modelandsim)** | Modelling and simulation exercises and utilities in Python |
+| 🔬 **[Transformer_MPC](https://github.com/timobuilds/Transformer_MPC)** | Fork: Transformer model in a model-predictive control context |
+| 📈 **[quantified_self](https://github.com/timobuilds/quantified_self)** | Explorations in biometric and personal analytics (tracking/visualization) |
+| 🧮 **[mlfun](https://github.com/timobuilds/mlfun)** | Small ML utilities, scripts, or experiments |
 
 ## Learning & reference
 
 | Project | Description |
 |--------|-------------|
-| 📘 **[stanford-cs-229-machine-learning](https://github.com/timobuilds/stanford-cs-229-machine-learning)** | Stanford CS 229 ML cheatsheets |
-| 🛤️ **[From-0-to-Research-Scientist-resources-guide](https://github.com/timobuilds/From-0-to-Research-Scientist-resources-guide)** | Guide into AI with solid foundation |
+| 📘 **[stanford-cs-229-machine-learning](https://github.com/timobuilds/stanford-cs-229-machine-learning)** | VIP cheatsheets for Stanford CS 229 Machine Learning |
+| 🛤️ **[From-0-to-Research-Scientist-resources-guide](https://github.com/timobuilds/From-0-to-Research-Scientist-resources-guide)** | Structured guide from undergrad to AI research (resources and learning path) |
 
 ## Other
 
 | Project | Description |
 |--------|-------------|
-| 📱 **[converted](https://github.com/timobuilds/converted)** | Swift project |
+| 📱 **[converted](https://github.com/timobuilds/converted)** | macOS app: drag-and-drop MP4 → MOV conversion (SwiftUI) |
 
 ---
 
